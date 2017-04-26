@@ -32,6 +32,8 @@ body {
   cursor: default;
 }
 
+.web-only { display: none; }
+
 footer {
   position: absolute;
   color: #000;

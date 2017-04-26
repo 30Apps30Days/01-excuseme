@@ -4,12 +4,12 @@
     xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>ExcuseMe</name>
   <description>
-      Generate random excuses.
+    Generate random excuses.
   </description>
-  <icon src="assets/icon.png" />
   <author email="metaist@metaist.com" href="http://metaist.com">
     Metaist LLC
   </author>
+  <icon src="assets/icon.png" />
   <content src="index.html" />
   <plugin name="cordova-plugin-whitelist" spec="1" />
   <access origin="*" />
